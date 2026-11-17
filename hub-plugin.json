@@ -1,7 +1,7 @@
 {
   "name": "copy-on-select",
-  "description": "Выделили текст в ленте мышью — он уже в буфере обмена, Cmd/Ctrl+C не нужен",
-  "why": "Как в терминале: быстрее, чем тянуться к Cmd+C",
+  "description": "Select text in the feed with the mouse and it is already on the clipboard: no Cmd/Ctrl+C needed",
+  "why": "Like in a terminal: faster than reaching for Cmd+C",
   "version": "1.0.0",
   "hub": "^1.1",
   "web": "main.js"
